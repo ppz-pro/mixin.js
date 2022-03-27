@@ -1,0 +1,28 @@
+{
+  "name": "@ppzp/mixin",
+  "version": "0.0.0",
+  "description": "给 js 增加 mixin 特性",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppz-pro/mixin.js.git"
+  },
+  "keywords": [
+    "mixin"
+  ],
+  "author": "gy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ppz-pro/mixin.js/issues"
+  },
+  "homepage": "https://github.com/ppz-pro/mixin.js#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
