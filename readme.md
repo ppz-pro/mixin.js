@@ -7,7 +7,7 @@ mixin 自然是 OO（Object Oriented，面向对象）的特性
 
 js 在 OO 方面的坏名声，并不是因为功能少  
 而是“先天设计畸形”  
-所以这里增加 mixin 特性，并不为挽回 js 的名声  
+增加 mixin 特性，也并不为挽回 js 的名声  
 js 在 OO 方面的表现确实糟糕  
 
 mixin.js 的意义，仅在于增加这么一个特性
